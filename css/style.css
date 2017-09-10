@@ -57,13 +57,14 @@ h1 {
 
 .content-box {
     width: 30%;
-    margin: 20px;
+    margin: 20px auto;
     background-color: #ffffff;
 }
 
 @media (max-width: 768px) {
   .content-box {
-  width: 100%;
+  width: 90%;
+　margin: 10px auto;
   }
 }
 
@@ -79,8 +80,8 @@ h1 {
 }
 
 #shoplink {
-  padding: 60px 0;
-  background-color: #d8bfd8;
+  padding: 30px 0;
+  background-color: #EEDED4;
 }
 
 .button-shoplink {
